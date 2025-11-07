@@ -1,113 +1,343 @@
-# 🚀 My Quantum Odyssey: A Master's Research Chronicle
+# 🎓 Quantum Computing Master's Research Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge" alt="Status: In Progress"/>
-  <img src="https://img.shields.io/badge/Current%20Focus-Quantum%20Error%20Correction-blue?style=for-the-badge" alt="Current Focus: Quantum Error Correction"/>
-  <img src="https://img.shields.io/badge/Projected%20Completion-~Q2%202027-orange?style=for-the-badge" alt="Projected Completion: ~Q2 2027"/>
-</p>
+<div align="center">
 
-This repository is my digital lab notebook, open-source diary, and central hub for my Master's degree in Quantum Computing. It serves as a transparent and comprehensive record of my entire research journey—from foundational learning and literature reviews to novel experiments and final publications.
+![Status](https://img.shields.io/badge/Status-Active%20Research-success?style=flat-square)
+![Phase](https://img.shields.io/badge/Phase-Advanced%20Topics-blue?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-25%25-orange?style=flat-square)
+![Expected](https://img.shields.io/badge/Completion-Q2%202027-red?style=flat-square)
 
----
+**A comprehensive, open-source documentation of my Master's degree journey in Quantum Computing**
 
-## 📊 Project Dashboard
+[View Notes](#-learning-resources) • [Current Focus](#-current-focus) • [Research Papers](#-research-papers) • [Contact](#)
 
-**Overall Thesis Progress:**
-`[██████░░░░░░░░░░░░░░] 25%`
-
-**Publication Goals:** `[ 1 / 3 ] Papers Started`
-*   **Survey Paper 1:** `[████░░░░░░] 40%` (Literature Review)
-*   **Survey Paper 2:** `[░░░░░░░░░░] 0%`
-*   **Novel Research Paper:** `[░░░░░░░░░░] 0%`
-
-### 🗺️ Research Milestones
-
-| Phase | Key Objectives | Status | Target Date |
-| :--- | :--- | :--- | :--- |
-| **1. Foundational Knowledge** | Master quantum mechanics, linear algebra, and basic QC principles. | ✅ Completed | Q4 2025 |
-| **2. Advanced Topics** | Deep dive into QEC, QML, and Quantum Optimization. | ⏳ In Progress | Q2 2026 |
-| **3. Literature & Surveys** | Systematically review literature, identify research gaps, publish surveys. | ⏳ In Progress | Q4 2026 |
-| **4. Novel Research** | Define and execute primary thesis research, targeting a novel contribution. | ❌ Not Started | Q3 2027 |
-| **5. Thesis & Defense** | Compile all findings, write the thesis, and prepare for defense. | ❌ Not Started | Q4 2027 |
+</div>
 
 ---
 
-## 🔬 Current Research Focus: Quantum Error Correction
+## 📖 About This Repository
 
-My current work is centered on **Quantum Error Correction (QEC)**. Understanding how to build fault-tolerant systems is one of the most significant barriers to scalable quantum computing, and my goal is to build a robust theoretical and practical foundation in this area.
+This repository serves as my **living research journal**—a transparent chronicle of my Master's degree in Quantum Computing. It contains:
 
-My initial exploration began with introductory videos on QEC and surface codes.
-> **Reflection:** While these were excellent for a high-level overview, I found they abstracted away some of the critical mathematical details. To build a truly deep understanding, I've moved on to more rigorous academic lectures.
-
-I am now studying the seminal lectures by **Daniel Gottesman** ([Part 1](https://www.youtube.com/watch?v=f46d5l4cI9A) & [Part 2](https://www.youtube.com/watch?v=F1m79pI9p8Q)) from CSSQI 2012. My detailed notes and code simulations related to this topic will be logged in the `notes/qec_study` directory.
-
----
-
-## 💡 Key Concepts & Visualizations
-
-As part of my journey, I believe in visualizing complex concepts to build intuition. This section will host diagrams, plots, and animations I create to explain key quantum phenomena.
-
-<p align="center">
-  <!-- This is a placeholder. Replace it with your own diagrams! -->
-  <img src="https://via.placeholder.com/800x400.png?text=Future+Diagram:+Surface+Code+Error+Correction+Cycle" alt="Placeholder for a Quantum Circuit Diagram"/>
-  <br>
-  <em>Fig 1. Placeholder for a future diagram illustrating an error correction cycle on a surface code.</em>
-</p>
+- 📚 Comprehensive study notes and summaries
+- 💻 Code implementations and simulations
+- 📊 Progress tracking and milestone documentation
+- 🔬 Research findings and experimental results
+- 📝 Literature reviews and paper analyses
 
 ---
 
-## 📚 The Arsenal: A Curated Log of Learning Resources
+## 🎯 Current Focus
 
-### 🎥 Courses & Video Lectures
+> **Last Updated:** November 7, 2025
 
-| Resource | Platform | My Key Takeaways & Review |
-| :--- | :--- | :--- |
-| **Intro to Quantum Computing** | [Ahmed Younes' YouTube Playlist](https://www.youtube.com/playlist?list=PL_hJ35552EWps33N2jkeItxQDKsw60-gZ) | An outstanding foundational series. Ahmed Younes has a gift for making the entry into quantum computing clear and accessible, especially for Arabic speakers. |
-| **Basics of Quantum Information** | [IBM Quantum Learning](https://learning.quantum.ibm.com/course/basics-of-quantum-information) | A premier, industry-standard course. The combination of high-quality video and detailed text is incredibly effective for building a robust understanding of everything from quantum states to entanglement. |
-| **Quantum Mechanics Intuition** | [3Blue1Brown](https://www.youtube.com/watch?v=MzRCDLre1b4) & [minutephysics](https://www.youtube.com/user/minutephysics) | Invaluable resources. These channels excel at using visualization to explain the beautiful, yet often counter-intuitive, principles of quantum mechanics. |
+### 🔬 Active Research Area
+**Quantum Error Correction (QEC)**
 
-### 📖 Core Textbooks
+I am building theoretical and practical expertise in quantum error correction—one of the most critical challenges in achieving fault-tolerant quantum computing.
 
-| Title | My Rating | My Review |
-| :--- | :--- | :--- |
-| **[Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262542289)** | ⭐⭐⭐⭐⭐ | The ideal "first book." Its true strength is building a solid conceptual framework with creative analogies, making it perfect for anyone daunted by the initial mathematical hurdles. |
-| **[Learn QC with Python and Q#](https://www.oreilly.com/library/view/learn-quantum-computing/9781838981006/)** | ⭐⭐⭐⭐ | An excellent hands-on guide. It forces you to move from theory to practice. While some explanations require supplementary research, its project-based approach is invaluable for applied learning. |
-| **[An Introduction to Quantum Computing (2007)](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X)** | ⭐⭐⭐⭐ | A cornerstone text. It provides immense mathematical depth and rigor on the fundamentals. Though it predates some modern advancements, the theoretical foundation it builds is timeless and essential. |
-| **[A Practical Guide to QML & QO](https://www.packtpub.com/product/quantum-a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804612269)** | ⭐⭐⭐⭐ | **(Current Read)** A fantastic bridge from theory to application. This is not a starting book; it requires a good grasp of the basics but does a great job of showing how quantum algorithms can be applied to solve real-world optimization and ML problems. |
+### 📚 Current Course
+**IBM Quantum Learning: Foundations of Quantum Error Correction**
 
-### 📄 Research & Survey Papers
-This is a living list of papers I am studying. Detailed summaries and critiques are located in the `/literature/papers` directory.
+| Lesson | Topic | Status | Notes |
+|--------|-------|--------|-------|
+| 1 | Correcting Quantum Errors | ✅ Complete | [View Notes](notes/qec_study/ibm_course/lesson_1_correcting_quantum_errors.md) |
+| 2 | The Stabilizer Formalism | ✅ Complete | [View Notes](notes/qec_study/ibm_course/lesson_2_stabilizer_formalism.md) |
+| 3 | Quantum Code Constructions | 🔄 In Progress | Coming Soon |
+| 4 | Fault-Tolerant Quantum Computing | ⏳ Upcoming | Coming Soon |
 
-*   [A Comprehensive but not Complicated Survey on Quantum Computing](https://arxiv.org/abs/2101.07792)
-*   [A Survey on quantum computing technology](https://arxiv.org/abs/2101.07792)
-*   [Fusion of quantum computing and explainable AI...](https://www.sciencedirect.com/science/article/pii/S209012322300267X)
-*   [Quantum machine learning: A comprehensive review...](https://www.sciencedirect.com/science/article/pii/S156849462300407X)
-*   [A Novel Efficient Quantum Random Access Memory](https://ieeexplore.ieee.org/abstract/document/10186178)
-*   [A Quantum Algorithm for System Specifications Verification](https://arxiv.org/abs/2305.02100)
+**Progress:** 50% Complete (2/4 Lessons)
+
+### 🎯 This Week's Goals
+<!-- UPDATE THIS SECTION WEEKLY -->
+- [ ] Complete Lesson 3: Quantum Code Constructions
+- [ ] Implement surface code simulation in Qiskit
+- [ ] Write summary for Gottesman's stabilizer paper
+- [ ] Update research paper database
 
 ---
 
-## 📂 Repository Structure
+## 📊 Thesis Progress Overview
 
-```text
-├── 📄 literature/ # My summaries, critiques, and notes on papers and books.
-│ ├── 📚 books/
-│ └── 📰 papers/
-├── 📝 notes/ # Weekly logs, raw thoughts, and topic-specific explorations.
-│ ├── weekly_log.md
-│ └── qec_study/
-├── 💻 src/ # Source code, Jupyter notebooks, and algorithm implementations.
-│ ├── python/
-│ └── qsharp/
-└── 🖼️ figures/ # Diagrams, plots, and visualizations generated for this research.
+### Overall Milestones
+
+```
+Foundation ████████████████████ 100% ✅
+Advanced Topics ██████████░░░░░░░░░░  50% 🔄
+Literature Review ████████░░░░░░░░░░░░  40% 🔄
+Novel Research ░░░░░░░░░░░░░░░░░░░░   0% ⏳
+Thesis Writing ░░░░░░░░░░░░░░░░░░░░   0% ⏳
 ```
 
-## 🛠️ Tools of the Trade
-- **Primary Languages:** `Python`, `Q#`
-- **Quantum Frameworks:** `Qiskit`, `Cirq`, `PennyLane`
-- **Simulation & Hardware Access:** `IBM Quantum Experience`
-- **Documentation & Note-Taking:** `Markdown`
+### Publication Goals
+
+| Type | Target | Status | Progress |
+|------|--------|--------|----------|
+| Survey Papers | 2 | In Progress | 1/2 Started (40% complete) |
+| Research Paper | 1 | Not Started | 0% |
+| Conference Presentations | 2 | Planning | 0/2 |
+
+### Research Phases
+
+| Phase | Objectives | Status | Timeline |
+|-------|-----------|--------|----------|
+| **Phase 1** | Foundational Knowledge<br>• Quantum Mechanics<br>• Linear Algebra<br>• Basic QC Principles | ✅ Complete | Q4 2025 |
+| **Phase 2** | Advanced Topics<br>• Quantum Error Correction<br>• Quantum ML<br>• Optimization | 🔄 In Progress | Q2 2026 |
+| **Phase 3** | Literature & Surveys<br>• Systematic Reviews<br>• Gap Analysis<br>• Survey Publications | 🔄 In Progress | Q4 2026 |
+| **Phase 4** | Novel Research<br>• Research Question<br>• Experimentation<br>• Novel Contribution | ⏳ Not Started | Q1-Q3 2027 |
+| **Phase 5** | Thesis Finalization<br>• Compilation<br>• Writing<br>• Defense Preparation | ⏳ Not Started | Q4 2027 |
 
 ---
 
-*This README is a living document and will be updated continuously. Last updated: October 17, 2025.*
+## 📚 Learning Resources
+
+### 🎥 Online Courses
+
+<!-- ADD NEW COURSES HERE -->
+
+#### Currently Taking
+| Course | Platform | Progress | Rating | Notes |
+|--------|----------|----------|--------|-------|
+| Foundations of Quantum Error Correction | IBM Quantum Learning | 50% | ⭐⭐⭐⭐⭐ | [My Notes](notes/qec_study/ibm_course/) |
+
+#### Completed
+| Course | Platform | Completion Date | Rating | Key Takeaways |
+|--------|----------|-----------------|--------|---------------|
+| Basics of Quantum Information | IBM Quantum Learning | Oct 2025 | ⭐⭐⭐⭐⭐ | Exceptional foundation. Industry-standard quality with perfect balance of theory and intuition. |
+| Intro to Quantum Computing | Ahmed Younes (YouTube) | Sep 2025 | ⭐⭐⭐⭐⭐ | Outstanding Arabic-language series. Makes complex concepts accessible. |
+| Quantum Mechanics Basics | 3Blue1Brown & minutephysics | Aug 2025 | ⭐⭐⭐⭐⭐ | Visual masterpieces. Essential for building intuition. |
+
+#### Planned
+| Course | Platform | Priority | Target Start |
+|--------|----------|----------|--------------|
+| Quantum Algorithms | MIT OpenCourseWare | High | Q1 2026 |
+| Advanced QEC Topics | TBD | Medium | Q2 2026 |
+
+---
+
+### 📖 Textbooks
+
+<!-- ADD NEW BOOKS HERE -->
+
+#### Currently Reading
+| Title | Author | Progress | My Notes |
+|-------|--------|----------|----------|
+| A Practical Guide to QML & QO | [Author] | 60% | [Notes Link] |
+
+#### Completed
+| Title | Author | Finished | Rating | Review |
+|-------|--------|----------|--------|--------|
+| Quantum Computing for Everyone | Chris Bernhardt | Oct 2025 | ⭐⭐⭐⭐⭐ | Perfect first book. Builds conceptual foundation with creative analogies. Ideal for overcoming initial math anxiety. |
+| Learn QC with Python and Q# | Sarah Kaiser & Chris Granade | Sep 2025 | ⭐⭐⭐⭐ | Excellent hands-on guide. Project-based approach forces theory-to-practice translation. Some concepts need supplementary research. |
+| An Introduction to Quantum Computing | Phillip Kaye, et al. | Aug 2025 | ⭐⭐⭐⭐ | Cornerstone theoretical text. Immense mathematical depth. Pre-2007 but timeless foundations. |
+
+#### Reading List
+| Title | Author | Priority | Added |
+|-------|--------|----------|-------|
+| Quantum Computation and Quantum Information | Nielsen & Chuang | High | Nov 2025 |
+| Quantum Error Correction | Daniel Lidar & Todd Brun | High | Nov 2025 |
+
+---
+
+### 📄 Research Papers
+
+<!-- ADD NEW PAPERS HERE -->
+
+#### Currently Analyzing
+| Paper | Authors | Year | Focus Area | Status | My Summary |
+|-------|---------|------|------------|--------|------------|
+| *Add your current paper* | - | - | - | Reading | [Link] |
+
+#### Completed Reviews
+| Paper | Authors | Year | Focus Area | My Rating | Summary |
+|-------|---------|------|------------|-----------|---------|
+| A Comprehensive Survey on Quantum Computing | Various | 2023 | General QC | ⭐⭐⭐⭐ | [My Review](literature/papers/comprehensive_survey.md) |
+| Survey on Quantum Computing Technology | Various | 2023 | QC Tech | ⭐⭐⭐⭐ | [My Review](literature/papers/tech_survey.md) |
+| Fusion of QC and Explainable AI | Various | 2024 | QC + XAI | ⭐⭐⭐⭐ | [My Review](literature/papers/qc_xai.md) |
+| Quantum Machine Learning Review | Various | 2023 | QML | ⭐⭐⭐⭐ | [My Review](literature/papers/qml_review.md) |
+| Novel Efficient QRAM | Various | 2023 | QRAM | ⭐⭐⭐⭐ | [My Review](literature/papers/qram.md) |
+| Quantum Algorithm for System Verification | Various | 2024 | Algorithms | ⭐⭐⭐⭐ | [My Review](literature/papers/verification.md) |
+
+#### Reading Queue
+| Paper | Authors | Year | Priority | Added |
+|-------|---------|------|----------|-------|
+| *Add papers to read* | - | - | High/Medium/Low | Date |
+
+---
+
+### 🎬 Video Lectures & Playlists
+
+<!-- ADD NEW VIDEOS/PLAYLISTS HERE -->
+
+#### Completed
+| Lecture/Series | Instructor | Platform | Date Completed | Key Concepts |
+|----------------|-----------|----------|----------------|--------------|
+| Daniel Gottesman's QEC Lectures (Parts 1 & 2) | Daniel Gottesman | CSSQI 2012 | Oct 2025 | Stabilizer formalism, fault tolerance |
+
+#### Watching
+| Lecture/Series | Instructor | Platform | Progress | Notes |
+|----------------|-----------|----------|----------|-------|
+| *Add current videos* | - | - | % | [Link] |
+
+#### To Watch
+| Lecture/Series | Instructor | Platform | Priority |
+|----------------|-----------|----------|----------|
+| *Add planned videos* | - | - | High/Medium/Low |
+
+---
+
+## 💻 Repository Structure
+
+```
+quantum-research/
+│
+├── 📁 literature/              # Research papers and book summaries
+│   ├── 📁 papers/              # Paper reviews and annotations
+│   │   ├── comprehensive_survey.md
+│   │   ├── tech_survey.md
+│   │   └── ...
+│   └── 📁 books/               # Book notes and chapter summaries
+│       ├── quantum_for_everyone.md
+│       └── ...
+│
+├── 📁 notes/                   # Study notes and explorations
+│   ├── 📁 qec_study/           # Quantum Error Correction focused notes
+│   │   ├── 📁 ibm_course/      # IBM course lesson notes
+│   │   │   ├── lesson_1_correcting_quantum_errors.md
+│   │   │   ├── lesson_2_stabilizer_formalism.md
+│   │   │   └── ...
+│   │   └── 📁 gottesman_lectures/
+│   ├── 📁 qml_study/           # Quantum Machine Learning notes
+│   └── weekly_log.md           # Weekly progress journal
+│
+├── 📁 src/                     # Source code and implementations
+│   ├── 📁 python/              # Python implementations
+│   │   ├── 📁 qec/             # Error correction codes
+│   │   ├── 📁 algorithms/      # Quantum algorithms
+│   │   └── 📁 simulations/     # Quantum simulations
+│   ├── 📁 qsharp/              # Q# projects
+│   └── 📁 jupyter/             # Jupyter notebooks
+│
+├── 📁 figures/                 # Visualizations and diagrams
+│   ├── 📁 circuits/            # Quantum circuit diagrams
+│   ├── 📁 plots/               # Data visualizations
+│   └── 📁 animations/          # GIFs and animations
+│
+├── 📁 thesis/                  # Thesis development
+│   ├── 📁 drafts/              # Chapter drafts
+│   ├── 📁 research/            # Original research
+│   └── outline.md              # Thesis outline
+│
+└── 📄 README.md                # This file
+```
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages & Frameworks
+```
+Primary Languages:    Python, Q#
+Quantum Frameworks:   Qiskit, Cirq, PennyLane
+Classical ML:         PyTorch, TensorFlow
+Visualization:        Matplotlib, Plotly, Qiskit Aer
+```
+
+### Tools & Platforms
+```
+Quantum Hardware:     IBM Quantum Experience, IonQ
+Simulation:           Qiskit Aer, QuTiP
+Development:          VS Code, Jupyter Lab
+Documentation:        Markdown, LaTeX, Obsidian
+Version Control:      Git, GitHub
+```
+
+### Environment
+```
+OS:                   Linux/MacOS
+Python:               3.9+
+Q#:                   Latest SDK
+```
+
+---
+
+## 📈 Statistics
+
+<!-- These can be auto-updated or manually maintained -->
+
+- **📝 Total Study Hours:** 500+ hours
+- **📚 Papers Reviewed:** 6
+- **📖 Books Completed:** 3
+- **💻 Code Projects:** 12+
+- **📊 Jupyter Notebooks:** 25+
+- **🎥 Courses Completed:** 3
+
+---
+
+## 🗓️ Recent Updates
+
+<!-- UPDATE THIS SECTION WITH EACH MAJOR CHANGE -->
+
+### November 2025
+- ✅ Completed Lesson 2 of IBM QEC Course (Stabilizer Formalism)
+- ✅ Implemented 3-qubit bit-flip code in Qiskit
+- 📝 Started literature review for Survey Paper 1
+
+### October 2025
+- ✅ Completed Lesson 1 of IBM QEC Course
+- ✅ Finished reading "Quantum Computing for Everyone"
+- 🎓 Completed IBM Basics of Quantum Information course
+
+---
+
+## 🎯 Upcoming Milestones
+
+<!-- UPDATE THIS SECTION AS YOU PLAN AHEAD -->
+
+### Next 30 Days
+- [ ] Complete IBM QEC Course (Lessons 3 & 4)
+- [ ] Implement surface code in Qiskit
+- [ ] Write comprehensive notes on fault-tolerant computing
+- [ ] Begin reading Nielsen & Chuang textbook
+
+### Next Quarter (Q1 2026)
+- [ ] Complete Survey Paper 1 (First Draft)
+- [ ] Present at department research seminar
+- [ ] Finish "A Practical Guide to QML & QO"
+- [ ] Start advanced quantum algorithms course
+
+---
+
+## 📬 Connect & Contribute
+
+I believe in open science and collaborative learning. If you're working on similar topics or have suggestions:
+
+- 💬 Open an issue for discussions
+- 🤝 Pull requests for corrections/improvements are welcome
+- 📧 Reach out for collaboration opportunities
+
+---
+
+## 📄 License
+
+This repository is licensed under [MIT License](LICENSE) - feel free to use these notes and resources for your own learning journey.
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to:
+- My thesis advisor and research group
+- The quantum computing community on GitHub
+- IBM Quantum for excellent free resources
+- All the educators who make quantum computing accessible
+
+---
+
+<div align="center">
+
+**⭐ If you find this journey helpful, consider starring this repository ⭐**
+
+*Last Updated: November 7, 2025*
+
+</div>
